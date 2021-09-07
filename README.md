@@ -34,7 +34,7 @@ Temos que ter o seguinte resultado:
 
 **Divirta-se**
 
-## LOCALIZAÇÃO DA IMAGEM DOCKER HUB
+## IMAGEM DOCKER HUB
 <https://hub.docker.com/repository/docker/pauloreuel/codeeducation>  
 
 
