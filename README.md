@@ -12,7 +12,7 @@
 
 # DESAFIO Docker e GO
 
-## IMERSÃO Full STACK &&Full Cycle
+## IMERSÃO Full STACK && Full Cycle
 
 ### Informações do desafio
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
