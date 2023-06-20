@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/media/images/b68b976e7d1f4e04b70b1507bffeda28.png" target="blank"><img src="https://fullcycle.com.br/wp-content/themes/fullcycle-blog/application/img/logo-fullcycle.png"/></a>
+  <a href="https://imersao.fullcycle.com.br/evento/" target="blank"><img src="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/media/images/b68b976e7d1f4e04b70b1507bffeda28.png"/></a>
 </p>
 
 
