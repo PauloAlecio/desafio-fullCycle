@@ -49,7 +49,7 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 **Divirta-se**
 
 ## IMAGEM DOCKER HUB
-<https://hub.docker.com/repository/docker/pauloreuel/codeeducation>  
+<https://hub.docker.com/repository/docker/pauloreuel/fullcycle/general>  
 
 
 
